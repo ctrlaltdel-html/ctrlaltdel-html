@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ctrlaltdel.html
-- 👀 I’m interested in Interactive web games 🧑‍💻
-- 🌱 I’m currently learning HTML 😀
-- 💞️ I’m looking to collaborate on HTML5 games ✅
-- 📫 How to reach me My email is collectordevice@gmail.com📧
+- I’m interested in web design and grpahic design
+-  I’m currently learning HTML, CSS AND JS
+-  I’m looking to collaborate on web projects and things like that
