@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @ctrlaltdel.html
-- I’m interested in web design and graphic design
--  I’m currently learning HTML, CSS and JS
--  I’m looking to collaborate on web projects and things like that
+i'm ava.
+how do i do this again?
